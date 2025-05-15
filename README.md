@@ -1,2 +1,0 @@
-# example-teamcity
-example-teamcity
